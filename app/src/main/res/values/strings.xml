@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoalTracker</string>
+    <string name="signUp">Don\'t have account?Sign Up</string>
+    <string name="login">Already have a account?Login</string>
+</resources>
